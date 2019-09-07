@@ -14,8 +14,9 @@
   "author": "Yulissa Terán",
   "license": "ISC",
   "devDependencies": {
-    "css-loader": "3.2.0",
-    "webpack": "4.39.3",
-    "webpack-cli": "^3.3.8"
+    "css-loader": "2.1.1",
+    "style-loader": "0.23.1",
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2"
   }
 }
