@@ -1,0 +1,10 @@
+body {
+  background: rgba(12, 24, 190, 0.609);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-size: 40px;
+  font-family: Arial;
+}
